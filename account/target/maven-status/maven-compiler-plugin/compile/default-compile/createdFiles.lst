@@ -1,0 +1,5 @@
+com\gientech\account\AccountApplication.class
+com\gientech\account\facade\impl\UserInfoFacadeImpl.class
+com\gientech\account\entity\UserInfoDto.class
+com\gientech\account\config\MiddleConfig.class
+com\gientech\account\facade\UserInfoFacade.class
